@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\ruchitha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27035370-4BC7-4B04-B219-63EBAAB1FA63}|ruchitha.vbproj|c:\\users\\admin\\source\\repos\\ruchitha\\ruchitha.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{27035370-4BC7-4B04-B219-63EBAAB1FA63}|ruchitha.vbproj|solutionrelative:ruchitha.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27035370-4BC7-4B04-B219-63EBAAB1FA63}|ruchitha.vbproj|c:\\users\\admin\\source\\repos\\ruchitha\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{27035370-4BC7-4B04-B219-63EBAAB1FA63}|ruchitha.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27035370-4BC7-4B04-B219-63EBAAB1FA63}|ruchitha.vbproj|c:\\users\\admin\\source\\repos\\ruchitha\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{27035370-4BC7-4B04-B219-63EBAAB1FA63}|ruchitha.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ruchitha",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ruchitha\\ruchitha.vbproj",
+              "RelativeDocumentMoniker": "ruchitha.vbproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ruchitha\\ruchitha.vbproj",
+              "RelativeToolTip": "ruchitha.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-11-09T02:29:14.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ruchitha\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ruchitha\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-09T02:18:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ruchitha\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ruchitha\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-09T02:15:39.29Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
