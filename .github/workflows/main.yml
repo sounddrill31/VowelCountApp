@@ -24,7 +24,7 @@ jobs:
       - name: Zip the output
         run: |
           mkdir output
-          cp -r source/VowelCountApp/bin/Debug/net8.0/* output/  # Adjust the path as necessary
+          cp -r source/VowelCountApp/bin/Debug/net*/* output/  # Adjust the path as necessary
           zip -r output.zip output/
 
       - name: Upload the artifact
