@@ -40,6 +40,7 @@ jobs:
 
     - name: Restore dependencies
       run: |
+        cd source/VowelCountApp
         dotnet workload restore
 
     - name: Build
